@@ -1,0 +1,141 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>AQUA</title>
+<script>
+  var userid="ACNJgzVAoCQGpM3MN7ZXX4eGxv92";
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Easy Admin Panel Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+
+<script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDOsYai0V0uvk3pkVSO9a6hHsanJl2Z4Dk",
+    authDomain: "eis-project-9721e.firebaseapp.com",
+    databaseURL: "https://eis-project-9721e.firebaseio.com",
+    projectId: "eis-project-9721e",
+    storageBucket: "eis-project-9721e.appspot.com",
+    messagingSenderId: "670314004581"
+  };
+  firebase.initializeApp(config);
+</script>
+
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+ <!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<!-- Custom CSS -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- Graph CSS -->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<!-- jQuery -->
+<!-- lined-icons -->
+<link rel="stylesheet" href="css/icon-font.min.css" type='text/css' />
+<!-- //lined-icons -->
+<!-- chart -->
+<script src="js/Chart.js"></script>
+<!-- //chart -->
+<!--animate-->
+<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+<script src="js/wow.min.js"></script>
+	<script>
+		 new WOW().init();
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+
+ <!-- Meters graphs -->
+<script src="js/jquery-1.10.2.min.js"></script>
+<!-- Placed js at the end of the document so the pages load faster -->
+
+</head> 
+<body class="sticky-header left-side-collapsed" background="#000" >
+    <section>
+    <!-- left side start-->
+    <div class="left-side sticky-left-side">
+
+      <!--logo and iconic logo start-->
+      <div class="logo">
+        <h1><a href="index.html">AQ<span></span>UA</a></h1>
+      </div>
+      <div class="logo-icon text-center">
+        <a href="index1.html"><i class="lnr lnr-home"></i> </a>
+      </div>
+
+      <!--logo and iconic logo end-->
+      <div class="left-side-inner">
+
+        <!--sidebar nav start-->
+          <ul class="nav nav-pills nav-stacked custom-nav">
+            <li ><a href="index1.html"><i class="lnr lnr-power-switch"></i><span>Dashboard</span></a></li>
+            <li ><a href="fillwater1.html"><i class="fa fa-tint"></i> <span>Fill Water</span></a></li>
+            <li  class="active" class="menu-list">
+              <a href="#"><i class="lnr lnr-chart-bars"></i><span>Graphs</span></a>
+              <ul class="sub-menu-list">
+                <li><a href="graph_turb_1.html">Water Turbidity</a></li>
+                <li><a href="graph_flow_1.html">Water Flow</a></li>
+                <li class="active"><a href="graph_level_1.html">Water Level</a></li>
+              </ul>
+            </li>
+            <!-- <li class="menu-list">
+              <a href="#"><i class="lnr lnr-cog"></i>
+                <span>Components</span></a>
+                <ul class="sub-menu-list">
+                  <li><a href="grids.html">Grids</a> </li>
+                  <li><a href="widgets.html">Widgets</a></li>
+                </ul>
+            </li>
+            <li><a href="forms.html"><i class="lnr lnr-spell-check"></i> <span>Forms</span></a></li>
+            <li><a href="tables.html"><i class="lnr lnr-menu"></i> <span>Tables</span></a></li>              
+            <li class="menu-list"><a href="#"><i class="lnr lnr-envelope"></i> <span>MailBox</span></a>
+              <ul class="sub-menu-list">
+                <li><a href="inbox.html">Inbox</a> </li>
+                <li><a href="compose-mail.html">Compose Mail</a></li>
+              </ul>
+            </li>     
+            <li class="menu-list"><a href="#"><i class="lnr lnr-indent-increase"></i> <span>Menu Levels</span></a>  
+              <ul class="sub-menu-list">
+                <li><a href="charts.html">Basic Charts</a> </li>
+              </ul>
+            </li>
+            <li><a href="codes.html"><i class="lnr lnr-pencil"></i> <span>Typography</span></a></li>
+            <li><a href="media.html"><i class="lnr lnr-select"></i> <span>Media Css</span></a></li>
+            <li class="menu-list"><a href="#"><i class="lnr lnr-book"></i>  <span>Pages</span></a> 
+              <ul class="sub-menu-list">
+                <li><a href="sign-in.html">Sign In</a> </li>
+                <li><a href="sign-up.html">Sign Up</a></li>
+                <li><a href="blank_page.html">Blank Page</a></li>
+              </ul>
+            </li> -->
+          </ul>
+        <!--sidebar nav end-->
+      </div>
+    </div>
+    </section>
+    <!-- left side end-->
+    <div style="height: 100vh;width: 100vw">
+      <div id="chartContainer" style="height: 75vh; width: 75vw;margin: 10%;"></div>
+      <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    </div>
+    
+
+
+<!-- <script src="myjs/index.js"> </script> -->
+<script type="text/javascript" src="myjs/graphlevel1.js"></script>
+<script src="js/jquery.nicescroll.js"></script>
+<script src="js/scripts.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
