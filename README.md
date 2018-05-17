@@ -12,7 +12,8 @@ using our embedded setup. The end user will have full knowledge and control abou
 android application will cater this purpose. The user will get timely notifications and can respond from anywhere.
 
 ---
-## Justification
+
+- ## Justification
 
 In cities, the population is huge and so are the needs. In today’s manual system, we have a tank fitted in very house
 for water storage which is connected somewhere to the main reservoir or tank. Thus, everyone receives water on a
@@ -24,23 +25,23 @@ closed. And too, from anywhere.
 
 ---
 
-### 1. Performance e Improvement
+#### 1. Performance e Improvement
 
 – Performance can be improved by applying better algorithms and relay to increase the
 speed for large number of tanks. Data analytics can be used to help user better decide the water intake. Giving
 notifications regarding water billing and other info.
 
-### 2. Low cost solution
+#### 2. Low cost solution
 
 – The system which is being provided doesn’t disturb the existing infrastructure. Thus, this
 solution is not only viable but also robust. 
 
-### 3. Scalability
+#### 3. Scalability
 
 – As mentioned above, it doesn’t disturb the existing infrastructure. Thus, it can easily cover a bigger
 area without being too expensive.
 
-### 4. Economic Feasibility
+#### 4. Economic Feasibility
 
 Once the hardware is set, it is only about maintenance unless there is a plan to cover more
 tanks. The whole system for 1 main tank and 2 sub tanks cost around ₹4000-5000, i.e., ₹ 2000-2500 per family.
@@ -48,7 +49,7 @@ This is for the first time. Out of the total cost, around ₹3000 is incurred fo
 family coming after the main tank setup require to pay around ₹1,100. 
 
 ---
-- ## Hardware and Software Requirements:
+ ## Hardware and Software Requirements:
 
 + Hardware Modules - Arduino/Raspberry pi (as controller), Ultrasonic sensor (as water
 level sensor), Water Turbidity and PH sensors (for quality checking), Water Flow sensor
