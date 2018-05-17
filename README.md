@@ -1,5 +1,6 @@
 # Aqua
 
+---
 
 - ## Abstract
 
@@ -20,6 +21,7 @@ tank gets filled. This leads to wastage. What if the tank stops taking water onc
 how much water is to be filled? And that too by the click of a button. This will help the user to have a better control
 over his/her budget. For eg. if there is no one at home, we can always send a prompt to make the valve remain
 closed. And too, from anywhere. 
+
 ---
 
 ### 1. Performance e Improvement
@@ -48,12 +50,12 @@ family coming after the main tank setup require to pay around ₹1,100.
 ---
 - ## Hardware and Software Requirements:
 
-- Hardware Modules - Arduino/Raspberry pi (as controller), Ultrasonic sensor (as water
++ Hardware Modules - Arduino/Raspberry pi (as controller), Ultrasonic sensor (as water
 level sensor), Water Turbidity and PH sensors (for quality checking), Water Flow sensor
 (for billing), Solenoid valves (to control the flow), pipes. Most of the components are
 available in lab or with us. Cumulatively, all this will cost around Rs.2000.
 
-- Networking Modules – Wifi, Cloud Database Service(Firebase).
++ Networking Modules – Wifi, Cloud Database Service(Firebase).
 
-- GUI and Data Analytics : Android App, Data Analytics of water quality and quantity
++ GUI and Data Analytics : Android App, Data Analytics of water quality and quantity
 usage as well as billing. 
