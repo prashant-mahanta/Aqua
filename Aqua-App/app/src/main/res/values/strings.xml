@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Aqua</string>
+    <string name="category_Stats">Stats</string>
+    <string name="category_graph">Graph</string>
+
+    <string name="turbidity_fragment">Turbidity fragment</string>
+    <string name="pH_fragment">pH fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome">Welcome to   Aqua</string>
+    <string name="desc">A smart app for   controling and monitoring   water usage in your house.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="next">Next</string>
+    <string name="turbdity">Turbdity</string>
+    <string name="ph">pH</string>
+    <string name="water_level">Water Level</string>
+    <string name="bill">Bill</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="automatic">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="user_control">User Control</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sex">Sex</string>
+</resources>
