@@ -1,15 +1,15 @@
 # Aqua
 
-===
 
-## Abstract
+- ## Abstract
 
 One of the most important aspect of any institution includes water management. It is crucial aspect as now-a-days
 water resources are very limited and nobody can afford its wastage. This project deals about automation in the water
 distribution and management with IoT. Water we use in day to day life, is municipality water. Through this project,
 we aim to make a model apartment in which the municipality water is distributed fairly and the process is automated
 using our embedded setup. The end user will have full knowledge and control about the water coming his home. An
-android application will cater this purpose. The user will get timely notifications and can respond from anywhere. 
+android application will cater this purpose. The user will get timely notifications and can respond from anywhere.
+
 ---
 ## Justification
 
@@ -46,7 +46,7 @@ This is for the first time. Out of the total cost, around ₹3000 is incurred fo
 family coming after the main tank setup require to pay around ₹1,100. 
 
 ---
-## Hardware and Software Requirements:
+- ## Hardware and Software Requirements:
 
 - Hardware Modules - Arduino/Raspberry pi (as controller), Ultrasonic sensor (as water
 level sensor), Water Turbidity and PH sensors (for quality checking), Water Flow sensor
