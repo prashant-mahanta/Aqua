@@ -60,3 +60,9 @@ available in lab or with us. Cumulatively, all this will cost around Rs.2000.
 
 + GUI and Data Analytics : Android App, Data Analytics of water quality and quantity
 usage as well as billing. 
+
+---
+
+## Block Diagram
+
+![screenshot 29](https://user-images.githubusercontent.com/25399528/40191046-f77ed296-5a1d-11e8-839f-2996fb3b22ac.png)
