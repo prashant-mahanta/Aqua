@@ -66,3 +66,34 @@ usage as well as billing.
 ## Block Diagram
 
 ![screenshot 29](https://user-images.githubusercontent.com/25399528/40191046-f77ed296-5a1d-11e8-839f-2996fb3b22ac.png)
+
+-----
+
+## Aqua App Interface
+
+### 1. SignIn/SignUp 
+
+![webp net-resizeimage 7](https://user-images.githubusercontent.com/25399528/41212186-b98e5b4c-6d59-11e8-996a-52b0d362aa1f.jpg)
+
+### 2. Window with options to logged in user. 
+  - Turbidity: Shows the turbidity of water in the primary tank.
+  - Water bill: Shows the water bill of the user measured using water flow sensor.
+  - Water level: Shows the level of water and over a period of time.
+  - manual: By clicking on this button user can off/on the flow of water in valves.
+  
+![webp net-resizeimage 1](https://user-images.githubusercontent.com/25399528/41212194-c5b585b2-6d59-11e8-9f2e-2863bb180d82.jpg)
+
+### 3. Water Bill 
+
+![webp net-resizeimage 3](https://user-images.githubusercontent.com/25399528/41212247-28aedd1c-6d5a-11e8-9edf-8699d5347d1c.jpg)
+
+### 4. Water level
+![waterl](https://user-images.githubusercontent.com/25399528/41212290-6ff3106c-6d5a-11e8-820c-edc1e87bf701.jpg)
+        ![waterlg](https://user-images.githubusercontent.com/25399528/41212297-787dd398-6d5a-11e8-9eef-1fbaaee844c9.jpg)
+
+### 5. Turbidity
+![turb](https://user-images.githubusercontent.com/25399528/41212329-a460ce16-6d5a-11e8-8a1c-7718c1b8a007.jpg)
+![turbg](https://user-images.githubusercontent.com/25399528/41212335-ad83e6ea-6d5a-11e8-9d40-29f5103f8cf0.jpg)
+
+### 6. Notification
+![notification](https://user-images.githubusercontent.com/25399528/41212348-c72c947a-6d5a-11e8-8ac6-5590b666e3eb.jpg)
