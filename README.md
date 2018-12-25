@@ -69,7 +69,7 @@ usage as well as billing.
 
 -----
 
-## Aqua App Interface
+## Aqua App Interface - Aakash Shukla
 
 ### 1. SignIn/SignUp 
 
